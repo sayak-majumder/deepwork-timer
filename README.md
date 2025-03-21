@@ -29,7 +29,7 @@ I’ve built two versions so far:
 ## 🚀 How to Run
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/deepwork-timer.git
+git clone https://github.com/sayak-majumder/deepwork-timer.git
 ```
 2. Navigate to the project folder:
 ```
