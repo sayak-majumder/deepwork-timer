@@ -35,14 +35,19 @@ git clone https://github.com/yourusername/deepwork-timer.git
 ```
 cd deepwork-timer
 ```
-3. Run the app:
+3. Run the app: (If in Windows)
 ```
-python deepwork_timer.py
+python deepwork-timer-v1.py
 ```
+Or, 
+```
+python deepwork-timer-v2.py
+```
+If you use linux or Mac use ```python3``` instead of ```python```
 
 ## 💻 Requirements
 - Python 3
-- Tkinter (comes pre-installed with Python)
+- Tkinter (comes pre-installed with Python) if not you can download using ```sudo apt-get install python3-tk``` (specially for ```Ubuntu``` users)
 
 ## 🎯 Features maybe I'll add in Future (Contributions Welcome!)
 - Sound notifications when sessions end.
