@@ -24,7 +24,7 @@ I’ve built two versions so far:
 ## 📸 Screenshots
 | Version 1                                  | Version 2                                  |
 |--------------------------------------------|--------------------------------------------|
-| ![Version 1 Screenshot](./path-to-your-v1-image.png) | ![Version 2 Screenshot](./path-to-your-v2-image.png) |
+| ![Version 1 Screenshot](./version1.png) | ![Version 2 Screenshot](./version2.png) |
 
 ## 🚀 How to Run
 1. Clone the repository:
@@ -41,10 +41,10 @@ python deepwork_timer.py
 ```
 
 ## 💻 Requirements
-- Python 3.x
+- Python 3
 - Tkinter (comes pre-installed with Python)
 
-## 🎯 Features to Come (Contributions Welcome!)
+## 🎯 Features maybe I'll add in Future (Contributions Welcome!)
 - Sound notifications when sessions end.
 - Daily productivity tracking.
 - Dark mode.
