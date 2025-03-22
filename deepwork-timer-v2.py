@@ -6,7 +6,7 @@ import threading
 class PomodoroApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Deep-Work App")
+        self.root.title("Deep-Work-Timer")
         self.root.geometry("400x300")
         self.root.resizable(False, False)
         
